@@ -1,0 +1,2 @@
+s3 sync VRBackups s3://vr-tienluong
+s3 sync s3://vr-tienluong VRBackups
